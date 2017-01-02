@@ -3,7 +3,7 @@ body {
         background-color: #eef;
         color: #259;
       }
-      nav img {
+      article img {
         width: 100%;
       }
 
@@ -31,4 +31,9 @@ body {
           padding: 0 0 10px 10px;
         } 
       }
- 
+    .col-md-10 
+     { line-height: 200px; }
+    .col-md-2 
+    { line-height: 200px; }
+    .col-md-12 
+    { line-height: 100px; }
